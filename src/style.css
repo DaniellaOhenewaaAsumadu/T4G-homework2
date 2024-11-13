@@ -1,0 +1,33 @@
+.entire-cv{
+    background-color: white;
+    padding: 30px;
+    margin: 100px;
+    justify-content: space-evenly;
+    border: 3px solid;
+    box-shadow: 100%;
+    border: 50px 50px 50px 50px;
+}
+.cv-image{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+.firstsection{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.personal-information{
+    display: flex;
+    background-color: bisque;
+    justify-content: center;
+}
+.h3{
+    color:purple;
+}
+.cover{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 30px;
+}
