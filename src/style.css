@@ -14,7 +14,7 @@
 }
 .firstsection{
     display: flex;
-    justify-content: center;
+    justify-content: right;
     flex-direction: column;
 }
 .personal-information{
@@ -30,4 +30,22 @@
     height: 200px;
     margin: 20px;
     border-radius: 30px;
+}
+.change-colour1{
+    color: blue;
+}
+.change-colour2{
+    color: blue;
+}
+.change-colour3{
+    color: blue;
+}
+.change-colour4{
+    color: blue;
+}
+.change-position2{
+    margin-right: 20px;
+}
+.all{
+    display: flex;
 }
